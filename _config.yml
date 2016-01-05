@@ -1,15 +1,15 @@
 # Site settings
-title: Hanson
+title: vipgk
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "vipgk|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://vipgk.github.io"  
 
 # About/contact
 owner: 
   name: "vipgk"
-  email: yuanpingzhang123@gmail.com
+  email: vipgk@qq.com
   bio: ""
 
 # Data
@@ -18,7 +18,7 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
+github_username: vipgk
 weibo_username: vipgk blog
 facebook_username:
 zhihu_username: zhang-yi-sen-46
